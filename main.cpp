@@ -165,5 +165,6 @@ int main() {
     cout << "Максимальный во втором массиве"  << foundMaxInArray(arr2, size1, size2) << endl;
     cout << "Максимальный в третьем массиве"  << foundMaxInArray(arr3, size1, size2, size3) << endl;
 
+    //добавить удаление
     return 0;
 }
